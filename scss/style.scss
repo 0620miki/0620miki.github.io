@@ -157,6 +157,7 @@ body {
           margin-bottom: 10px;
           @include pc {
             margin-bottom: 20px;
+            overflow: hidden;
           }
 
           img {
